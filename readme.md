@@ -1,8 +1,8 @@
-### Awesome-YouTube
+# Awesome-YouTube
 
 A Curated List of Tools and Resources, This list provides a comprehensive set of tools and resources to enhance the YouTube experience, with a particular focus on developers who want to integrate YouTube features into their applications, automate tasks, or extract valuable insights. It is designed for integration into GitHub repositories for open-source collaboration.
 
-#### Table of Contents
+## Table of Contents
 
 - [APIs and SDKs](#apis-and-sdks)
 - [Video and Channel Analytics](#video-and-channel-analytics)
